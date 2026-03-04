@@ -1,8 +1,4 @@
 # 데이터 및 결과물 (보안 필수)
-data/
-results/
-*.csv
-*.xlsx
 *.gt3x
 *.edf
 
